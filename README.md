@@ -49,7 +49,7 @@
 ![Solidity](https://img.shields.io/badge/Solidity-36334F?style=flat-square&logo=solidity&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-<!-- Add or remove badges as appropriate. -->
+<!-- Add or remove badges as appropriate. Examples: Python, TypeScript, etc. -->
 
 ---
 
@@ -61,6 +61,6 @@
 
 ---
 
-*Last updated: May 2026 • Metrics dynamically generated via GitHub Readme Stats, Streak Stats, and Activity Graph*
+*Last updated: May 2026 • Note: The Overview Statistics and Top Languages cards rely on a public service that can experience temporary loading delays due to rate limits. The Contribution Streak card uses a separate, currently reliable provider.*
 
 </div>
