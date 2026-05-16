@@ -36,7 +36,7 @@
 
 ### 📈 Contribution Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aaguilerav&theme=radical" alt="GitHub Contribution Activity Graph" width="90%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aaguilerav&theme=github-dark" alt="GitHub Contribution Activity Graph" width="90%" />
 
 ---
 
